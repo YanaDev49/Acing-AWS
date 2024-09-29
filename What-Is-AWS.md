@@ -8,9 +8,11 @@ AWS, also known as Amazon Web Services, is a platform that provides a wide range
 AWS allows businesses to scale up and down quickly, only paying for what they use. This makes it easier and more cost-effective to manage IT infrastructure.
 
 ## So what Does AWS Offer? ⤵️
+| **Category**       | **Description**                                                                        |
+|--------------------|----------------------------------------------------------------------------------------|
+| **Computing Power** | You can rent virtual servers to run applications and handle large amounts of data.     |
+| **Storage**         | AWS offers services to store files, databases, and backups.                            |
+| **Networking**      | Tools to manage internet traffic, security, and scalability for websites or apps.      |
+| **Other Services**  | AWS provides machine learning, security, analytics, and other specialized services.    |
 
-Category	Description
-Computing Power	You can rent virtual servers to run applications and handle large amounts of data.
-Storage	AWS offers services to store files, databases, and backups.
-Networking	Tools to manage internet traffic, security, and scalability for websites or apps.
-Other Services	AWS provides machine learning, security, analytics, and other specialized services.
+
