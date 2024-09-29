@@ -16,3 +16,25 @@ AWS allows businesses to scale up and down quickly, only paying for what they us
 | **Other Services**  | AWS provides machine learning, security, analytics, and other specialized services.    |
 
 
+# How It All Started!!
+
+![image](https://github.com/user-attachments/assets/470c7995-0397-4e95-af96-96af02515f09)
+
+Amazon Web Services was created by Amazon, and it was officially launched in the year 2006. It started out as a way for Amazon to use its existing infrastructure to offer computing and storage services to other companies. At the time, Amazon had built a powerful infrastructure to run its own online business and realised they could offer those same services to other businesses.
+
+![image](https://github.com/user-attachments/assets/000744f1-413e-40c3-9b30-c5d192173e57)
+
+# How AWS Benefits Companies and Developers
+
+![image](https://github.com/user-attachments/assets/32973547-5227-4acb-b2ce-c7588e28f87d)
+
+- AWS helps businesses avoid the need to buy expensive servers and hardware. Instead, they can rent computing power, storage, and other tools from AWS as needed
+
+- AWS allows companies to scale up or down based on their needs, which means they only pay for what they use
+
+- AWS offers global infrasctructure, so companies can easily run apps and services anywhere in the world without setting up physical data centres
+
+- Developers and startups can use AWS to quicly build apps without huge upfront costs.
+
+- Individuals can store files, build websites, or even run machine learning models using AWS's flexible services
+
