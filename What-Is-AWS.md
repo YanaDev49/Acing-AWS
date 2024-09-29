@@ -16,7 +16,7 @@ AWS allows businesses to scale up and down quickly, only paying for what they us
 | **Other Services**  | AWS provides machine learning, security, analytics, and other specialized services.    |
 
 
-# How It All Started!!
+## How It All Started!!
 
 ![image](https://github.com/user-attachments/assets/470c7995-0397-4e95-af96-96af02515f09)
 
