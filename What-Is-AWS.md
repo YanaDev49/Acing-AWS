@@ -38,3 +38,29 @@ Amazon Web Services was created by Amazon, and it was officially launched in the
 
 - Individuals can store files, build websites, or even run machine learning models using AWS's flexible services
 
+# AWS Cloud Use Cases!! 
+![image](https://github.com/user-attachments/assets/a0f6ece6-58ca-437e-80e5-3d02c703f0ed)
+
+AWS enables you to build sophisticated, scalable applications which is applicable to a diverse set of industries! 
+
+- These industries include: IT, Entertainment and Healthcare!
+
+## Here are some brands that you probably know that use AWS:
+
+### 1. Netflix 
+![image](https://github.com/user-attachments/assets/b88fb51c-c7fe-4326-8919-5fa197feff2d)
+
+### 2. Twitch
+![image](https://github.com/user-attachments/assets/8c2acfb2-084a-46d2-be44-4271bdd0cc70)
+
+### 3. LinkedIn
+![image](https://github.com/user-attachments/assets/c30b7c17-881f-4ee6-a28e-c00b7de811df)
+
+### 4. Activision
+![image](https://github.com/user-attachments/assets/f98d2e34-ca62-4c49-8a5d-c25dbf9cf63f)
+
+### 5. Dropbox
+![image](https://github.com/user-attachments/assets/d90e8812-1aaa-483e-b1e7-585cbb0ddd69)
+
+### 6. McDonalds 
+![image](https://github.com/user-attachments/assets/24d995a6-0d12-40c3-a5b1-232079cc3775)
