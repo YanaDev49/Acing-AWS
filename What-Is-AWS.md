@@ -72,4 +72,4 @@ AWS enables you to build sophisticated, scalable applications which is applicabl
 
 ### And that is the basis of Amazon Web Services as company and how it has revolutionised cloud computing for the better!!
 
-![Uploading ThereYouHaveItSheaWhitneyGIF.gif…]()
+![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/893bcb07-d21f-46a5-b7d5-7c5260ce91c6)
