@@ -15,16 +15,11 @@
 - Amazon Cloudfront, AWS's content delivery network uses these Edge location to cache or temporarily store content. So, if a user in London is trying to access your
   website hosted in the U.S, CloudFront will deliver the content from the nearest London edge Location if its already cached there.
 
-  ![image](https://github.com/user-attachments/assets/03ddf6f9-f398-4a04-9e66-e912b2b76a46)
-
 - Since the data is closer to users, the response time is much quicker, reducing latency. This is important for services like streaming video, loading websites, or gaming, where users expect fast load times.
 
   ![image](https://github.com/user-attachments/assets/ce8f62c8-709c-43a6-8572-717443fc59c7)
 
 - AWS has hundreds of Edge Locations worldwide, Meaning users can get content faster no matter where they are. The more Edge Locations, the better global perfomance.
-
-  ![image](https://github.com/user-attachments/assets/a6c0e056-ca42-4274-af1a-4ffcb0ecd824)
-
 - Aws Edge Locations also support security features, like DDoS protection and encryption, ensuring that content is not only delivered quickly but also securely
 
 
