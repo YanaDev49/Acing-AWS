@@ -28,7 +28,7 @@
 
 - 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲: Compliance is really important because if youre working in industries with strict data governance and legal requirements like the government, some businesses are required by law to keep their data in a certain country or region. AWS helps with that by ensuring your data never leaves the region unless you give permission
 
-  ![image](https://github.com/user-attachments/assets/b6c07597-9bb2-482a-b3dd-c584dd37e40c)
+![image](https://github.com/user-attachments/assets/b95be48f-64f8-4478-addb-a1d0748dcdc3)
 
 - 𝗣𝗿𝗼𝘅𝗶𝗺𝗶𝘁𝘆: The closer your AWS region is to the individuals using your service, The faster the response times which means lower latency. This is important if youre running a real-time application or a high traffic website
 
