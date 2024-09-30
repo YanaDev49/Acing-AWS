@@ -1,5 +1,5 @@
 # Global Services and Region-Scoped Services in AWS!!
 
-![image](https://github.com/user-attachments/assets/f0557bf6-0797-479c-9d3d-b7bde10ff641)
+![image](https://github.com/user-attachments/assets/6734f3a6-740c-4eb3-a11e-5c716b4cb1fb)
 
 
