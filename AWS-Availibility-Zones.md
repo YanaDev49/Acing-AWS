@@ -24,6 +24,10 @@
 
 - Despite being physically seperate, AZ's within the same region are connected by low-latency, high-speed networking. This allows your apllications to replicate data or communicate between AZ's quickly without much delay.
 
-  
-  
+![image](https://github.com/user-attachments/assets/7103fe4e-7007-4997-b4ed-3bcab6963498)
+
 - To ensure your apllications are resilient, it is recommend to deploy your workloads across multiple AZ's. This way, even if one AZ fails, your apllication can continue running on another AZ.
+
+### And that is all you need to know about AWS availibility Zones!!
+
+![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/b29c57c2-950d-4cb8-9375-8bc3091824bb)
