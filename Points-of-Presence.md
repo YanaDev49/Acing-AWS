@@ -1,4 +1,4 @@
-# Points of Presence (Edge Location) 
+# Points of Presence (Edge Locations) In AWS!
 
 ![image](https://github.com/user-attachments/assets/d3284f64-cded-45a6-9688-60e75b552a54)
 
