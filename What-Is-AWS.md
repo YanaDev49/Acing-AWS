@@ -64,3 +64,12 @@ AWS enables you to build sophisticated, scalable applications which is applicabl
 
 ### 6. McDonalds 
 ![image](https://github.com/user-attachments/assets/24d995a6-0d12-40c3-a5b1-232079cc3775)
+
+## What does this mean?
+
+- This means that AWS is flexible, powerful and trusted by some of the biggest names accross industries!
+
+
+### And that is the basis of Amazon Web Services as company and how it has revolutionised cloud computing for the better!!
+
+![Uploading ThereYouHaveItSheaWhitneyGIF.gif…]()
