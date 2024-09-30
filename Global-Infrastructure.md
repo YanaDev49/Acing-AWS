@@ -38,4 +38,9 @@
 
   ![image](https://github.com/user-attachments/assets/446aea63-6641-4756-8036-51de4b7dae9b)
 
-- 𝗣𝗿𝗶𝗰𝗶𝗻𝗴: AWS pricing varies from region to region. It is usually based on things like demand, operating costs and local factors. You can check how much a service costs in different regions 
+- 𝗣𝗿𝗶𝗰𝗶𝗻𝗴: AWS pricing varies from region to region. It is usually based on things like demand, operating costs and local factors. You can check how much a service costs in different regions
+
+### And that is the basis of AWS Regions!!!
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/954b5ca2-0737-457d-89ca-66b16030e1af)
+
