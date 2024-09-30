@@ -10,8 +10,6 @@
  (Which could be far away), AWS uses the nearest Edge Location to serve that content. This speeds things up because the data has less
  distance to travel.
 
-![image](https://github.com/user-attachments/assets/0d7a8f10-e718-4582-a39f-2e5752111eec)
-
 - Amazon Cloudfront, AWS's content delivery network uses these Edge location to cache or temporarily store content. So, if a user in London is trying to access your
   website hosted in the U.S, CloudFront will deliver the content from the nearest London edge Location if its already cached there.
 
