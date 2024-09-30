@@ -10,7 +10,9 @@
 
 - Each region is a seperate area that contains multiple data centres, known as Availability Zones. This is important because it helps ensure redundancy and high availibility for your applications.
 
-- An example of a Region name in AWS can be ![Screenshot 2024-09-30 173256](https://github.com/user-attachments/assets/af66e43f-59ff-411e-9f7f-5940105cf951) or ![Screenshot 2024-09-30 173314](https://github.com/user-attachments/assets/2b29457d-9637-4fc4-b2bd-89bc7122fb74)
+- An example of a Region name in AWS can be:
+ ![Screenshot 2024-09-30 173256](https://github.com/user-attachments/assets/af66e43f-59ff-411e-9f7f-5940105cf951)
+ ![Screenshot 2024-09-30 173314](https://github.com/user-attachments/assets/2b29457d-9637-4fc4-b2bd-89bc7122fb74)
 
 - If something goes wrong in one data center AWS can automatically switch to another in the same region to keep things running smoothly. AWS has regions in North America, Europe, Asia Australia and much more.
 
