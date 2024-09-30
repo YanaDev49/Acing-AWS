@@ -32,7 +32,7 @@
 
 - 𝗣𝗿𝗼𝘅𝗶𝗺𝗶𝘁𝘆: The closer your AWS region is to the individuals using your service, The faster the response times which means lower latency. This is important if youre running a real-time application or a high traffic website
 
-  ![image](https://github.com/user-attachments/assets/76049d2d-b08f-42db-9224-570ba0d2e080)
+ ![image](https://github.com/user-attachments/assets/5f923b35-d967-441f-ba07-cac3bc862ae8)
 
 - 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗪𝗶𝘁𝗵𝗶𝗻 𝗔 𝗥𝗲𝗴𝗶𝗼𝗻: Not Every AWS Service is available in every region. Some regions might have fewer services or might not have the latest features, so if you need to use a certain service, you should check whether its available in your region. Despite this, AWS adds services all the time however they dont always release it to every region at once.
 
