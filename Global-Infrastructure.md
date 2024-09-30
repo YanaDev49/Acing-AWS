@@ -36,7 +36,7 @@
 
 - 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗪𝗶𝘁𝗵𝗶𝗻 𝗔 𝗥𝗲𝗴𝗶𝗼𝗻: Not Every AWS Service is available in every region. Some regions might have fewer services or might not have the latest features, so if you need to use a certain service, you should check whether its available in your region. Despite this, AWS adds services all the time however they dont always release it to every region at once.
 
-  ![image](https://github.com/user-attachments/assets/446aea63-6641-4756-8036-51de4b7dae9b)
+![image](https://github.com/user-attachments/assets/32bd7368-d2e0-4699-b01b-a87f757d6eac)
 
 - 𝗣𝗿𝗶𝗰𝗶𝗻𝗴: AWS pricing varies from region to region. It is usually based on things like demand, operating costs and local factors. You can check how much a service costs in different regions
 
