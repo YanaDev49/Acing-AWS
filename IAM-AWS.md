@@ -1,5 +1,5 @@
 # AWS Identity And Access Management (AWS IAM) 
-![image](https://github.com/user-attachments/assets/8cca882b-b630-4db8-93da-23b90ded2030)
+![image](https://github.com/user-attachments/assets/8cca882b-b630-4db8-93da-23b90ded2030) 
 
 AWS Identity and Access Management (IAM) is a tool that helps you control who can access your AWS resources and what they 
 can do with them. You can create users, groups, and roles, assign them specific permissions, and manage access securely. It ensures that
@@ -34,4 +34,6 @@ In AWS Identity Access Management (IAM). permissions control what actions users,
 ## IAM Policies Inheritance 
 ![image](https://github.com/user-attachments/assets/e1be30fd-eef4-4c37-9c04-2d88001d204e)
 
+In AWS Identity and Access Management (IAM),policy inheritance refers to how permissions are passed down to users through groups or roles. If a user is part of a group, the permissions assigned to that group will automatically apply to the user. This means you dont need to individually assign permissions to each user. Just assign policies to the group, and every member of that group will inherit those permissions.
 
+- This makes managing access easier, especially for large teams. You can also attach multiple policies to user or group, and the permissions from all those policies combine to determine what actions are allowed or denied.
