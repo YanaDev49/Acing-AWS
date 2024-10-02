@@ -23,3 +23,15 @@ automatically gets those permissions. its a way to organise and manage access mo
 
 ![image](https://github.com/user-attachments/assets/0b45a217-874d-498d-99ce-2e7b057f44b4)
 
+## Permissions
+
+In AWS Identity Access Management (IAM). permissions control what actions users, groups, or roles can perform on AWS resources. These permissions are set through policies, which are written in JSON format. A JSON policy file determines what actions, like reading data from an S3 bucket or launching an EC2 instance, are allowed or denied, and on which specific resources.
+
+- You can attach these JSON policies to users, groups, or roles, ensuring they have only the access that they need, following the principle of least privilege. This setup helps securely manage permissions and ensures users cant access services or data they dont need.
+
+![image](https://github.com/user-attachments/assets/0fe6e301-e6a4-4317-92e5-47fa33059318)
+
+## IAM Policies Inheritance 
+![image](https://github.com/user-attachments/assets/e1be30fd-eef4-4c37-9c04-2d88001d204e)
+
+
