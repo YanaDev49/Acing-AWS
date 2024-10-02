@@ -49,7 +49,7 @@ In AWS Identity and Access Management (IAM),policy inheritance refers to how per
 - At the top of your policy JSON file you will always see a version. This is the date of the current policy.
 
 ### ID ###
-![image](https://github.com/user-attachments/assets/cc76af7a-1cd9-484f-9b33-66fc43977133)
+![image](https://github.com/user-attachments/assets/6f64290d-b0a4-4e65-8e1b-55823ebb67cd)
 
 - This is an identifier of the policy. This is usually there to give the policy a name or some extra context
 
