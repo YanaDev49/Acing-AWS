@@ -37,3 +37,49 @@ In AWS Identity Access Management (IAM). permissions control what actions users,
 In AWS Identity and Access Management (IAM),policy inheritance refers to how permissions are passed down to users through groups or roles. If a user is part of a group, the permissions assigned to that group will automatically apply to the user. This means you dont need to individually assign permissions to each user. Just assign policies to the group, and every member of that group will inherit those permissions.
 
 - This makes managing access easier, especially for large teams. You can also attach multiple policies to user or group, and the permissions from all those policies combine to determine what actions are allowed or denied.
+
+## IAM Policies Structure 
+![image](https://github.com/user-attachments/assets/8ce6778d-f943-49ec-90cb-91ba4d328a13)
+
+### Let me take you through a description of what a JSON permissions file looks like!!
+
+### Version ### 
+![image](https://github.com/user-attachments/assets/bbb650de-3e7a-436f-8493-c2cf7daa8eaf)
+
+- At the top of your policy JSON file you will always see a version. This is the date of the current policy.
+
+### ID ###
+![image](https://github.com/user-attachments/assets/cc76af7a-1cd9-484f-9b33-66fc43977133)
+
+- This is an identifier of the policy. This is usually there to give the policy a name or some extra context
+
+### Statement ### 
+![image](https://github.com/user-attachments/assets/eaaae631-52d2-48f6-8ed6-6249788409d9)
+
+#### A policy can have one or more statements, and each one spells out exactly what the policy does:
+
+![image](https://github.com/user-attachments/assets/5fb270c0-38e1-4c9e-84f0-d006c9faf4cb)
+
+- The SID is like a label or tag with a statement to make it easier to identify.
+
+![image](https://github.com/user-attachments/assets/62433ec9-6907-44de-9c50-7a678a185156)
+
+- This is where you say whether the statement allows or denies access.
+
+![image](https://github.com/user-attachments/assets/a4f3fe9e-4fb4-497d-a524-468ad3122347)
+
+- The Principle tells AWS who the policy applies to. It could be the user the role or account that gets permissions.
+
+![image](https://github.com/user-attachments/assets/8dc631d8-9a01-4e8c-a9f3-eaea1214a815)
+
+- Actions are the specific things that the user or group is allowed or denied to do.
+
+![image](https://github.com/user-attachments/assets/6b68a258-415c-43ec-9cfb-de7325c3656b)
+
+- Resources define what the action applies to like an S3 bucket or an EC2 instance.
+
+![image](https://github.com/user-attachments/assets/ff61e083-1ce1-4fac-bcc3-5ac6a6c4221a)
+
+- Conditions are rules around when the policy is in effect. conditions are optional but especially usefull when you need extra control.
+
+### In Summary, A policy defines what to which resource and when!! This structure gives you concise control of permissions!!
