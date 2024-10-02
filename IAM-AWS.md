@@ -56,7 +56,7 @@ In AWS Identity and Access Management (IAM),policy inheritance refers to how per
 ### Statement ### 
 ![image](https://github.com/user-attachments/assets/eaaae631-52d2-48f6-8ed6-6249788409d9)
 
-#### A policy can have one or more statements, and each one spells out exactly what the policy does:
+## A policy can have one or more statements, and each one spells out exactly what the policy does:
 
 ![image](https://github.com/user-attachments/assets/5fb270c0-38e1-4c9e-84f0-d006c9faf4cb)
 
