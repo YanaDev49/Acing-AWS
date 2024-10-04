@@ -116,3 +116,12 @@ In AWS Identity and Access Management (IAM), users can access AWS in two main wa
 AWS Management Console – This is a web-based interface where users log in with a username, password, and optionally, a Multi-Factor Authentication (MFA) code. It provides a graphical way to interact with AWS services.
 
 Programmatic Access – Users can interact with AWS via APIs, the AWS CLI (Command Line Interface), or SDKs (Software Development Kits). To do this, they need Access Keys, which consist of an access key ID and a secret access key.
+
+## Access Keys
+
+![image](https://github.com/user-attachments/assets/5839a679-9e29-48de-bd68-1ead39f70f89)
+
+Access keys in AWS Identity And management (IAM) are a combination of an Access Key ID and a secret Access Key. These are used to make programmatic requests to AWS services, meaning theyre for things like API calls or using the AWS CLI. They're especially important for apllications that need to interact with AWS resources without logging into the AWS Management Console. 
+
+Its important to keep access keys safe and secure, preventing from sharing with anyone to avoid hacking issues.
+
