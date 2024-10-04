@@ -7,5 +7,6 @@ whether you are using python, Javascript, PHP, Node.js or GO, AWS has an SDK for
 AWS SDK allows you to use AWS services directly within your apllication.
 
 With Amazon SDK, you can integrate AWS services (like S3, EC2, etc.) directly into your applications without needing to manually handle API
-requests. It simplifies tasks like uploading files, managing databases, and scaling servers, allowing you to focus more on building your app. Its especially
-useful for automating AWS operations within your code!
+requests. It simplifies tasks like uploading files, managing databases, and scaling servers, allowing you to focus more on building your app. Its especially useful for automating AWS operations within your code!
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/51c64440-bf9b-4633-86eb-80bccc8b3cae)
