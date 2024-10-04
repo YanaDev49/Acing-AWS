@@ -125,3 +125,13 @@ Access keys in AWS Identity And management (IAM) are a combination of an Access 
 
 Its important to keep access keys safe and secure, preventing from sharing with anyone to avoid hacking issues.
 
+## IAM Roles For Services!!
+
+![image](https://github.com/user-attachments/assets/60f9ab1a-4752-47c2-b758-5803f661301d)
+
+AWS IAM Roles for services allow AWS services (like EC2, Lambda, or S3) to interact with other AWS resources on your behalf
+, securely. Instead. of using access keys, these services use roles to assume temporary credentials with the permissions you define in the role.
+
+For example, you can assign a role to an EC2 instance so it can access S3 buckets, nut the instance wont have permanent access keys. This reduces security risks and simplifies managing permisions.
+Each role is created with specific policies that define what actions the service can perform.
+
