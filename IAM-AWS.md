@@ -132,6 +132,28 @@ Its important to keep access keys safe and secure, preventing from sharing with 
 AWS IAM Roles for services allow AWS services (like EC2, Lambda, or S3) to interact with other AWS resources on your behalf
 , securely. Instead. of using access keys, these services use roles to assume temporary credentials with the permissions you define in the role.
 
-For example, you can assign a role to an EC2 instance so it can access S3 buckets, nut the instance wont have permanent access keys. This reduces security risks and simplifies managing permisions.
+- For example, you can assign a role to an EC2 instance so it can access S3 buckets, nut the instance wont have permanent access keys. This reduces security risks and simplifies managing permisions.
 Each role is created with specific policies that define what actions the service can perform.
 
+## IAM Security Tools
+
+![image](https://github.com/user-attachments/assets/91d86751-f649-4ade-af13-ac71cf6cb06b)
+
+AWS IAM includes powerful security tools designed to help you monitor and manage access to your AWS resources effectively. Two key tools are the IAM Credentials Report and the IAM Access Advisor.
+
+### IAM Credentials Report 
+
+![image](https://github.com/user-attachments/assets/a5e4a540-4520-4749-99fa-00bd87f0829f)
+
+The IAM Credentials Report provides a detailed snapshot of your IAM users and their associated credentials. 
+
+- This report includes information such as the last time each user logged in, whether a user has active access keys, MFA devices or passwords and which users who might be using outdated or unnecessary credentials
+
+### IAM Acess Advisor
+
+![image](https://github.com/user-attachments/assets/82a2fa36-998e-4388-9fc5-d62bc72b9e94)
+
+The IAM Access Advisor gives you insights into the permissions that IAM users and roles have and how often those permissions are used, It provides.
+
+- This report has information about when services where last accessed by displaying when each user last accessed specific AWS Services.
+It also helps you identify permissions that are not being used, allowing you to tighten security by removing unnecessary access.
