@@ -1,5 +1,7 @@
 # Amazon Web Services Elastic Cloud Compute!
 
+![image](https://github.com/user-attachments/assets/5778ddf2-16dd-4e9e-9508-0710b24a529c)
+
 Amazon EC2 is a service that provides scalable virtual servers in the cloud. You can choose the type of server, the operating system, and the resources like CPU, memory, and storage, depending on your application's needs. Amazon EC2 is extremely flexible! you can launch or stop instances whenever needed, and you only pay for what you use. ⤵️
 
 | **Feature**                    | **Description**                                                                                                                                  |
