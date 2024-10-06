@@ -16,3 +16,16 @@ Just like how we choose an AMI (Amazon Machine Image) On the console, we need to
 - In This Example, we will be using the AMI ID of Ubuntu
 
   ![image](https://github.com/user-attachments/assets/dfc3b1d9-7b5a-4cf9-a76e-098923bc9624)
+
+## Step 2: Choosing an instance type 
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/74da0421-87fe-4ce4-b0ad-cdf010c5110f">
+
+Next, we need to choose an instance type and the most common one I normally use is t2.micro
+
+![image](https://github.com/user-attachments/assets/cd98afc4-6991-4660-ae50-ca6a398cca0d)
+
+### Why use t2.micro instance type?
+
+- The t2.micro instnce type is part of AWS free tier, which means that you can use it for free for up to 750 hours a month for the first year. This makes it ideal for learning, testing, or small projects (So there you go haha 😄🙌)
+
+## Step 3: Creating a key-pair
