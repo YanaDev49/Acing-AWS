@@ -31,4 +31,6 @@ Next, we need to choose an instance type and the most common one I normally use 
 ## Step 3: Creating a key-pair
 ![ivx3azkn](https://github.com/user-attachments/assets/9121b9c3-726c-4c97-94ec-50a15c2a813a)
 
-Then we need to create a key- pair 
+Then we need to create a key-pair! we can name it 'demo-key-pair'
+
+![image](https://github.com/user-attachments/assets/cc300061-31db-48ae-87db-691f9e487374)
