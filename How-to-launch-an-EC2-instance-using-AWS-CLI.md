@@ -10,3 +10,9 @@
 
 ## Step 1: Select Amazon Machine Image ID
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/2de42c78-0250-4404-b923-f5e8049d34c8">
+
+Just like how we choose an AMI (Amazon Machine Image) On the console, we need to do the same when using the AWS CLI. The Only difference here is that we will be using the AMI ID to create our command to launch our instance, which is the blueprint for creating virtual machines.
+
+- In This Example, we will be using the AMI ID of Ubuntu
+
+  ![image](https://github.com/user-attachments/assets/dfc3b1d9-7b5a-4cf9-a76e-098923bc9624)
