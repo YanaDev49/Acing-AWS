@@ -26,8 +26,9 @@ Next, we need to choose an instance type and the most common one I normally use 
 
 ### Why use t2.micro instance type?
 
-- The t2.micro instnce type is part of AWS free tier, which means that you can use it for free for up to 750 hours a month for the first year. This makes it ideal for learning, testing, or small projects (So there you go haha 😄🙌)
+- The t2.micro instance type is part of AWS free tier, which means that you can use it for free for up to 750 hours a month for the first year. This makes it ideal for learning, testing, or building small projects (So there you go haha 😄🙌)
 
 ## Step 3: Creating a key-pair
-![Screenshot 2024-10-01 001852](https://github.com/user-attachments/assets/f90e94ab-86d6-40a9-9c4e-d65e33d6d4ca)
+![ivx3azkn](https://github.com/user-attachments/assets/9121b9c3-726c-4c97-94ec-50a15c2a813a)
 
+Then we need to create a key- pair 
