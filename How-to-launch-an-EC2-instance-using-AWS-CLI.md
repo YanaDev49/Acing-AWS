@@ -44,3 +44,12 @@ Then we need to create a key-pair! we can name it 'demo-key-pair'
 ![image](https://github.com/user-attachments/assets/d339f8b2-e3f7-4d25-923a-fb97c5e1686c)
 
 ## Step 5: Creating a security Group 
+
+A security group is essential for your EC2 instance because it controls the traffic that can flow in and out. It acts as a virtual firewall, allowing you to specify which ports are open for access (like SSH for Linux or HTTP for a website). 
+
+- Without one, your instance would be exposed to unwanted traffic or completely inaccessible!
+
+### Lets create a Security group called 'web-sg' ⤵️
+![image](https://github.com/user-attachments/assets/284e94c6-d82e-46a6-a1bc-46b56e024fea)
+
+## Step 6: Adding Inbound Rules!!
