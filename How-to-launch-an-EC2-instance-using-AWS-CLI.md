@@ -55,7 +55,9 @@ A security group is essential for your EC2 instance because it controls the traf
 Inbound rules refer to the rules defined in the security group associated with that instance. These rules control the instance. These rules control the incoming traffic to your instance. ⤵️
 
 ![image](https://github.com/user-attachments/assets/8d9c5496-047e-49d0-bc7b-33de9116a0d1)
+
 ![image](https://github.com/user-attachments/assets/a9aa1cd5-67b8-4840-82aa-0da21d688768)
+
 ![image](https://github.com/user-attachments/assets/538b076a-51d8-4ab0-9c8f-0ddaa58db868)
 
 - Here we have added the HTTP rule, HTTPS rule and SSH rule!
