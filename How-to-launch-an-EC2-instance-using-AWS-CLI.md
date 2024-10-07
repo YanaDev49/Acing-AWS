@@ -22,7 +22,7 @@ Just like how we choose an AMI (Amazon Machine Image) On the console, we need to
 
 Next, we need to choose an instance type and the most common one I normally use is t2.micro
 
-![image](https://github.com/user-attachments/assets/cd98afc4-6991-4660-ae50-ca6a398cca0d)
+![image](https://github.com/user-attachments/assets/deda9f0a-2af2-4691-95f7-b6b9a084b8c3)
 
 ### Why use t2.micro instance type?
 
@@ -33,7 +33,7 @@ Next, we need to choose an instance type and the most common one I normally use 
 
 Then we need to create a key-pair! we can name it 'demo-key-pair'
 
-![image](https://github.com/user-attachments/assets/cc300061-31db-48ae-87db-691f9e487374)
+![image](https://github.com/user-attachments/assets/287c5e23-12de-4290-8c5f-c716de2f0c2b)
 
 ## Step 4: configuring permissions ( Time to Chmod!! hehe 😁)
 
@@ -41,7 +41,7 @@ Then we need to create a key-pair! we can name it 'demo-key-pair'
 
 𝖠𝗅𝗐𝖺𝗒𝗌 𝗆𝖺𝗄𝖾 𝗌𝗎𝗋𝖾 𝗍𝗁𝖺𝗍 𝗒𝗈𝗎𝗋 𝗉𝖾𝗋𝗆𝗂𝗌𝗌𝗂𝗈𝗇𝗌 𝖿𝗈𝗋 𝗒𝗈𝗎𝗋 .𝗉𝖾𝗆 𝖿𝗂𝗅𝖾 𝖺𝗋𝖾 𝖼𝗈𝗇𝖿𝗂𝗀𝗎𝗋𝖾𝖽 𝖾𝗌𝗉𝖾𝖼𝗂𝖺𝗅𝗅𝗒 𝗐𝗁𝖾𝗇 𝗒𝗈𝗎 𝗂𝗇𝗍𝖾𝗇𝖽 𝗍𝗈 𝖲𝖲𝖧!!
 
-![image](https://github.com/user-attachments/assets/d339f8b2-e3f7-4d25-923a-fb97c5e1686c)
+![image](https://github.com/user-attachments/assets/c8eb17b8-a970-44f5-b386-026b75282da8)
 
 ## Step 5: Creating a security Group 
 
@@ -50,14 +50,13 @@ A security group is essential for your EC2 instance because it controls the traf
 - Without one, your instance would be exposed to unwanted traffic or completely inaccessible!
 
 ### Lets create a Security group called 'web-sg' ⤵️
-![image](https://github.com/user-attachments/assets/284e94c6-d82e-46a6-a1bc-46b56e024fea)
+![image](https://github.com/user-attachments/assets/c95695ca-214b-4998-9869-836316f3d276)
 
 ## Step 6: Adding Inbound Rules!!
 
-
 Inbound rules refer to the rules defined in the security group associated with that instance. These rules control the instance. These rules control the incoming traffic to your instance. ⤵️
 
-![image](https://github.com/user-attachments/assets/e62ede52-8a29-457c-98c4-002e60192ddb)
+![image](https://github.com/user-attachments/assets/8d9c5496-047e-49d0-bc7b-33de9116a0d1)
 
 - Here we have added the HTTP rule, HTTPS rule and SSH rule!
 
@@ -66,6 +65,9 @@ Inbound rules refer to the rules defined in the security group associated with t
 We will be choosing a subnet According to the availibility zone 'eu-west-2'
 
 ![image](https://github.com/user-attachments/assets/007c564e-99cb-4dcc-bc7d-3ee263598ecf)
+![image](https://github.com/user-attachments/assets/a9aa1cd5-67b8-4840-82aa-0da21d688768)
+![image](https://github.com/user-attachments/assets/538b076a-51d8-4ab0-9c8f-0ddaa58db868)
+
 
 - We are storing this in a variable ⤴️
 
