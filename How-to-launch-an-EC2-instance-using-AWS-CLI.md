@@ -89,5 +89,21 @@ Before logging into our instance, we need to get its IP address, and we can do t
 
 ![Screenshot 2024-10-07 033157](https://github.com/user-attachments/assets/4e5a6ad1-1446-465d-b3c7-068c403eee16)
 
+### Or
 
-  
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/9b8ad998-488e-430d-b5b0-c69649744d2f">
+
+(From the AWS management Console) 
+
+#### And now we are able to SSH into our instance 🎉👏😄
+
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/94f2eb90-1de9-4d3a-9060-106a08df9aed">
+
+### There you have it Everyone!! This is how I launched an EC2 instance using thE AWS CLI!! 
+
+### This was definitely an insightful process for me, since it was my first time using the AWS command line interface when navigating services.
+
+### This Demonstrates how, everything done on the management console can be directly accessed through the CLI, which increases overall efficiency and flexibility! 🚀🚀🚀
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/5da67dcb-a10b-40d1-8fb7-f621fb65e029)
+
