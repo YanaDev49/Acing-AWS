@@ -15,14 +15,14 @@ Just like how we choose an AMI (Amazon Machine Image) On the console, we need to
 
 - In This Example, we will be using the AMI ID of Ubuntu
 
-![image](https://github.com/user-attachments/assets/8a63af60-efdc-4db6-b311-e4590bda0436)
+![image](https://github.com/user-attachments/assets/00d4b52a-ef9d-4f81-b410-ce95e3b75207)
 
 ## Step 2: Choosing an instance type 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/74da0421-87fe-4ce4-b0ad-cdf010c5110f">
 
 Next, we need to choose an instance type and the most common one I normally use is t2.micro
 
-![image](https://github.com/user-attachments/assets/deda9f0a-2af2-4691-95f7-b6b9a084b8c3)
+![image](https://github.com/user-attachments/assets/c69e7b9b-3c55-44af-bf76-9a8a6b0dfd05)
 
 ### Why use t2.micro instance type?
 
@@ -33,7 +33,7 @@ Next, we need to choose an instance type and the most common one I normally use 
 
 Then we need to create a key-pair! we can name it 'demo-key-pair'
 
-![image](https://github.com/user-attachments/assets/287c5e23-12de-4290-8c5f-c716de2f0c2b)
+![orowypyc](https://github.com/user-attachments/assets/6772b76d-11dc-4d69-be6d-5d4a9996f536)
 
 ## Step 4: configuring permissions ( Time to Chmod!! hehe 😁)
 
