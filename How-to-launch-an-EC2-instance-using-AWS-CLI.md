@@ -6,8 +6,6 @@
 
 𝗦𝗼 𝗶 𝗱𝗲𝗰𝗶𝗱𝗲𝗱 𝘁𝗼 𝗴𝗲𝘁 𝘀𝗼𝗺𝗲 𝗵𝗮𝗻𝗱𝘀 𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝘂𝘀𝗶𝗻𝗴 𝗶𝘁 𝘄𝗵𝗶𝗰𝗵 𝗶𝗹𝗹 𝗯𝗲 𝘀𝗵𝗼𝘄𝗶𝗻𝗴 𝘆𝗼𝘂 𝘁𝗼𝗱𝗮𝘆! 🚀
 
-![HappyGIF (2)](https://github.com/user-attachments/assets/83fe9b48-8a10-40cf-b80e-068f5f749571)
-
 ## Step 1: Select Amazon Machine Image ID
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/2de42c78-0250-4404-b923-f5e8049d34c8">
 
