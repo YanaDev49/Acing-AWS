@@ -15,7 +15,7 @@ Just like how we choose an AMI (Amazon Machine Image) On the console, we need to
 
 - In This Example, we will be using the AMI ID of Ubuntu
 
-  ![image](https://github.com/user-attachments/assets/dfc3b1d9-7b5a-4cf9-a76e-098923bc9624)
+![image](https://github.com/user-attachments/assets/8a63af60-efdc-4db6-b311-e4590bda0436)
 
 ## Step 2: Choosing an instance type 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/74da0421-87fe-4ce4-b0ad-cdf010c5110f">
