@@ -53,3 +53,20 @@ A security group is essential for your EC2 instance because it controls the traf
 ![image](https://github.com/user-attachments/assets/284e94c6-d82e-46a6-a1bc-46b56e024fea)
 
 ## Step 6: Adding Inbound Rules!!
+
+
+Inbound rules refer to the rules defined in the security group associated with that instance. These rules control the instance. These rules control the incoming traffic to your instance. ⤵️
+
+![image](https://github.com/user-attachments/assets/e62ede52-8a29-457c-98c4-002e60192ddb)
+
+- Here we have added the HTTP rule, HTTPS rule and SSH rule!
+
+## Step 7: Time to choose a subnet!!
+
+We will be choosing a subnet According to the availibility zone 'eu-west-2'
+
+![image](https://github.com/user-attachments/assets/007c564e-99cb-4dcc-bc7d-3ee263598ecf)
+
+- We are storing this in a variable ⤴️
+
+## Step 8: Launching our instance 🎉😄🚀
