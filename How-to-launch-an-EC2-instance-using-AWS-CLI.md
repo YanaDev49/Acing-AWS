@@ -18,7 +18,7 @@ Just like how we choose an AMI (Amazon Machine Image) On the console, we need to
 ## Step 2: Choosing an instance type 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/74da0421-87fe-4ce4-b0ad-cdf010c5110f">
 
-Next, we need to choose an instance type and the most common one I normally use is t2.micro
+Next, we need to choose an instance type, and the most common one I normally use is t2.micro
 
 ![image](https://github.com/user-attachments/assets/c69e7b9b-3c55-44af-bf76-9a8a6b0dfd05)
 
