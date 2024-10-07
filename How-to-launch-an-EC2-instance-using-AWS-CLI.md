@@ -70,3 +70,24 @@ We will be choosing a subnet According to the availibility zone 'eu-west-2a'
 - We are storing this in a variable ⤴️
 
 ## Step 8: Launching our instance 🎉😄🚀
+
+𝖠𝖿𝗍𝖾𝗋 𝗌𝖾𝗍𝗍𝗂𝗇𝗀 𝖺𝗅𝗅 𝗈𝖿 𝗈𝗎𝗋 𝗂𝗆𝗉𝗈𝗋𝗍𝖺𝗇𝗍 𝗏𝖺𝗋𝗂𝖺𝖻𝗅𝖾𝗌, 𝗂𝗍𝗌 𝖿𝗂𝗇𝖺𝗅𝗅𝗒 𝗍𝗂𝗆𝖾 𝗍𝗈 𝗅𝖺𝗎𝗇𝖼𝗁 𝗈𝗎𝗋 𝖤𝖢𝟤 𝗂𝗇𝗌𝗍𝖺𝗇𝖼𝖾! 🎉
+
+𝗏𝗂𝖾𝗐 𝗍𝗁𝖾 𝖿𝗎𝗅𝗅 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝖽𝗈𝗐𝗇 𝖻𝖾𝗅𝗈𝗐⤵️ 
+
+![image](https://github.com/user-attachments/assets/b11ee68d-aeb3-4ef9-b4a7-67d5872f06e4)
+
+## Step 9: Instance IP address
+
+Before logging into our instance, we need to get its IP address, and we can do that through this command ⤵️
+
+![image](https://github.com/user-attachments/assets/609df813-8a1d-43f3-87ca-67e4ce5dab4b)
+
+## Step 10: Logging into our instance 👏👏👏
+
+𝖭𝗈𝗐 𝗍𝗁𝖺𝗍 𝗍𝗁𝖾 𝖨𝖯 𝖺𝖽𝖽𝗋𝖾𝗌𝗌 𝗈𝖿 𝗍𝗁𝖾 𝗂𝗇𝗌𝗍𝖺𝗇𝖼𝖾 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝗋𝖾𝗍𝗋𝖺𝖼𝗍𝖾𝖽, 𝗐𝖾 𝖼𝖺𝗇 𝗇𝗈𝗐 𝗅𝗈𝗀 𝗂𝗇𝗍𝗈 𝗈𝗎𝗋 𝗂𝗇𝗌𝗍𝖺𝗇𝖼𝖾 𝗐𝗂𝗍𝗁 𝗍𝗁𝖾 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀 𝖼𝗈𝗆𝗆𝖺𝗇𝖽:  
+
+![Screenshot 2024-10-07 033157](https://github.com/user-attachments/assets/4e5a6ad1-1446-465d-b3c7-068c403eee16)
+
+
+  
