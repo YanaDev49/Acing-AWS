@@ -1,8 +1,8 @@
-# Lets Talk EC2 Purchasing Options
+# Lets Talk EC2 Purchasing Options 😄🤔
 
-![LetsTalkDetailsCycleWorldGIF](https://github.com/user-attachments/assets/7af04874-1dc6-4cb1-99eb-3668798eaf93)
+![MilkMochaGIF](https://github.com/user-attachments/assets/588fadad-4dd7-498c-8dc8-690b06bcc3a6)
 
-### Did you know that there are different purchasing options for AWS EC2 instances? These purchasing options depend on the storage, workload and time length of use for your instance!
+#### Did you know that there are different purchasing options for EC2 instances? These purchasing options depend on the storage, workload and time length of use for your instance!
 
 | **Purchasing Option**   | **Description**                                                                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
