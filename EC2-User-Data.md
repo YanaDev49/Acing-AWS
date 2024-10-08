@@ -1,4 +1,4 @@
-# What is EC2 User Data?
+# What is EC2 User Data? 🤔
 
 ![image](https://github.com/user-attachments/assets/f12d2e93-4104-438e-9950-9a786bf9a8d6)
 
@@ -8,8 +8,8 @@ EC2 User Data is like a little to-do list for your server that you can set up wh
 
 Here’s how it works: when you launch an EC2 instance, you can give it some "User Data" (usually in the form of a script). This script runs right after the instance starts. So, for example, if you want to install Apache (a web server), you could include that command in your User Data, and EC2 will handle it without you having to lift a finger.
 
-It’s a one-time thing though—EC2 User Data only runs the first time the instance starts up. So, it’s super handy for automating setup tasks that you need done right away.
+It’s a one-time thing though, EC2 User Data only runs the first time the instance starts up. So, it’s super handy for automating setup tasks that you need done right away.
 
 ### And there you have it guys!!
 
-![Uploading ThereYouHaveItSheaWhitneyGIF (3).gif…]()
+![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/2f61cf4f-c644-4f7e-861a-e5ec5f683254)
