@@ -40,6 +40,7 @@ Security Groups  control who can and can’t come in (or out) of your virtual ma
   
 - All outbound traffic is authorised by default
   
+  
 Security groups are all about controlling access. You decide who can connect via IP address and how they can connect via a port. The idea is that your instance stays locked down unless a connection matches your security group rules 
 
 #### In summary, Security Groups are just a way to control the "traffic" in and out of your EC2 instance, making sure only the right people can access it and keeping unwanted visitors out.
