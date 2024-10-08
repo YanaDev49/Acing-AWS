@@ -1,4 +1,4 @@
-# Lets Talk EC2 Purchasing Options‼️
+# Lets Talk EC2 Purchasing Options
 
 ![LetsTalkDetailsCycleWorldGIF](https://github.com/user-attachments/assets/7af04874-1dc6-4cb1-99eb-3668798eaf93)
 
