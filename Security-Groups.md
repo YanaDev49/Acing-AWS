@@ -20,6 +20,27 @@ Security Groups  control who can and can’t come in (or out) of your virtual ma
 
 - Security Groups remember things! If you allow incoming traffic, the return traffic is automatically allowed out. So, if someone connects to your server, their response is allowed back without needing another rule.
 
+## Important things to know about Security groups 
+
+![VeryVeryImportantAdamGIF](https://github.com/user-attachments/assets/317a4cc3-7b97-4c48-a873-4a751da9b5d9)
+
+- Security Groups can be attached to multiple instances
+  
+- Security groups are locked down to a region/VPC combination
+  
+- Security groups live outside the EC2 instance. If traffic is blocked the EC2 instance wont see it
+
+- Its good to maintain one seperate security group for SSH access
+
+- If your application is not accessible 'time out', then its a security group issue
+  
+- If your application gives a "connection refused" error, then its an application error or its not launched
+  
+- All inbound traffic is blocked by default
+  
+- All outbound traffic is authorised by default
+  
+Security groups are all about controlling access. You decide who can connect via IP address and how they can connect via a port. The idea is that your instance stays locked down unless a connection matches your security group rules 
 
 #### In summary, Security Groups are just a way to control the "traffic" in and out of your EC2 instance, making sure only the right people can access it and keeping unwanted visitors out.
 
