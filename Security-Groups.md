@@ -20,7 +20,7 @@ Security Groups  control who can and can’t come in (or out) of your virtual ma
 
 - Security Groups remember things! If you allow incoming traffic, the return traffic is automatically allowed out. So, if someone connects to your server, their response is allowed back without needing another rule.
 
-## Important things to know about Security groups 
+## Important things to know about Security groups!! 
 
 ![VeryVeryImportantAdamGIF](https://github.com/user-attachments/assets/317a4cc3-7b97-4c48-a873-4a751da9b5d9)
 
