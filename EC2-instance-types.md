@@ -6,7 +6,7 @@ EC2 instance types are just different kinds of virtual machines (servers) you ca
 
 ## Here’s a breakdown of the main types 😄
 
-![Uploading LetMeExplainEmmaGIF.gif…]()
+![LetMeExplainEmmaGIF (2)](https://github.com/user-attachments/assets/aa4bdb6d-6fb6-46fb-b6f5-c9d519a62f4d)
 
 ### General Purpose:
 
