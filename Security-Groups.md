@@ -40,7 +40,16 @@ Security Groups  control who can and can’t come in (or out) of your virtual ma
   
 - All outbound traffic is authorised by default
   
-  
+
+## Referencing Security Groups 
+
+Normally, Security Groups control traffic based on things like IP addresses (who can connect to your instance from where).
+But sometimes, instead of listing specific IPs, you just want your instance to trust another group of instances (servers) automatically. That’s where referencing Security Groups comes in.
+
+- When you reference another Security Group, you’re basically saying, "Allow traffic from any EC2 instance that’s part of this other Security Group." This makes it super easy to let multiple servers talk to each other without worrying about changing IP addresses.
+- 
+In short, referencing other Security Groups is just a way to let certain groups of servers communicate with each other without needing to know their exact IP addresses. It makes managing access between multiple EC2 instances way easier!
+##
 Security groups are all about controlling access. You decide who can connect via IP address and how they can connect via a port. The idea is that your instance stays locked down unless a connection matches your security group rules 
 
 #### In summary, Security Groups are just a way to control the "traffic" in and out of your EC2 instance, making sure only the right people can access it and keeping unwanted visitors out.
