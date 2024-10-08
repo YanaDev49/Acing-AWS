@@ -2,7 +2,7 @@
 
 ![MilkMochaGIF](https://github.com/user-attachments/assets/588fadad-4dd7-498c-8dc8-690b06bcc3a6)
 
-#### Did you know that there are different purchasing options for EC2 instances? These purchasing options depend on the storage, workload and time length of use for your instance!
+#### Did you know that there are different purchasing options for EC2 instances? These purchasing options depend on the storage, workload and length of time for the use of your instance!
 
 | **Purchasing Option**   | **Description**                                                                                                                                               |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
