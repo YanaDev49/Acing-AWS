@@ -1,1 +1,1 @@
-# Lets Talk EC2 Purchasing Options‼️
+# Lets Talk EC2 Purchasing Options ‼️
