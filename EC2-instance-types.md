@@ -8,41 +8,40 @@ EC2 instance types are just different kinds of virtual machines (servers) you ca
 
 ![LetMeExplainEmmaGIF (2)](https://github.com/user-attachments/assets/aa4bdb6d-6fb6-46fb-b6f5-c9d519a62f4d)
 
-### General Purpose:
+## General Purpose:
 
 ![image](https://github.com/user-attachments/assets/a0b1bf20-521b-4b9d-a5c1-2b81fdafaf86)
 
-The "all-rounder" instances. Good for stuff like websites, apps, or development environments, basically anything that doesn’t need crazy power or storage. For example, Running a small to medium website or app backend.
+- The "all-rounder" instances. Good for stuff like websites, apps, or development environments, basically anything that doesn’t need crazy power or storage. For example, Running a small to medium website or app backend.
 
-### Compute Optimized:
+## Compute Optimized:
 
 ![image](https://github.com/user-attachments/assets/5f13476d-0798-4032-9a7c-b1ed61b48d76)
 
-These are made for tasks that need a lot of processing power (CPU). Perfect for things like gaming servers, machine learning models, or batch processing.
+- These are made for tasks that need a lot of processing power (CPU). Perfect for things like gaming servers, machine learning models, or batch processing.
 Example: Video encoding, scientific simulations, or high-performance web servers.
 
-### Storage Optimized:
+## Storage Optimized:
 
 ![image](https://github.com/user-attachments/assets/e330ee87-a9fb-42e0-b4cf-20967a5bb250)
 
-Designed for tasks that need super-fast access to large amounts of data. Great for big databases, data warehouses, or analytics.
-Example: Running NoSQL databases like Cassandra or MongoDB, or big data workloads.
+- Designed for tasks that need super-fast access to large amounts of data. Great for big databases, data warehouses, or analytics. Example: Running NoSQL databases like Cassandra or MongoDB, or big data workloads.
 
-### Accelerated Computing:
+## Accelerated Computing:
 
 ![image](https://github.com/user-attachments/assets/b280814e-ba8e-4e2e-8de4-5ae9bcd8f418)
 
-These instances come with GPUs or FPGAs (special hardware for boosting performance). They’re awesome for tasks like machine learning, AI, or 3D rendering that need more than just a CPU.
+- These instances come with GPUs or FPGAs (special hardware for boosting performance). They’re awesome for tasks like machine learning, AI, or 3D rendering that need more than just a CPU.
 Example: Training deep learning models or 3D graphics rendering.
 
-### Memory Optimized:
+## Memory Optimized:
 
 ![image](https://github.com/user-attachments/assets/cf47f4fa-ade8-4e90-ada0-658bb3aadc5f)
 
-Perfect for tasks that need a ton of memory (RAM) to process huge amounts of data fast. Great for large databases or in-memory caches.
+- Perfect for tasks that need a ton of memory (RAM) to process huge amounts of data fast. Great for large databases or in-memory caches.
 Example: Running Redis, big-data analytics, or large enterprise apps.
 
-### HPC Optimized (High Performance Computing):
+## HPC Optimized (High Performance Computing):
 
 ![image](https://github.com/user-attachments/assets/46a355df-591c-4710-b53a-2e9c41abaa5a)
 
