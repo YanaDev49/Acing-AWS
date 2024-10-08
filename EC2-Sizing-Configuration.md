@@ -1,7 +1,5 @@
 # EC2 Sizing and Configuration!! 
 
-![image](https://github.com/user-attachments/assets/6161846f-4b66-4f9d-908f-ca09640da75c)
-
 Imagine EC2 as a bunch of virtual computers that you can rent to run stuff like websites or apps. Now, just like when you buy a new computer, you get to choose things like how much storage you want or how fast the processor should be, EC2 has different "sizing and configuration" options to fit what you need.
 
 | **Category**           | **Description**                                                                                                                                                 |
