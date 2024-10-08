@@ -1,4 +1,4 @@
-# IPv4 VS IPv6 🤔
+# IPv4 and IPv6 Recap!!! 🌐
 
 ![IHaveYourIpGIF](https://github.com/user-attachments/assets/fed33f04-5476-4da7-9fc2-5e05dbf28d17)
 
