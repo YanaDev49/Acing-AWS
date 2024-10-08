@@ -10,10 +10,9 @@ EC2 instance types are just different kinds of virtual machines (servers) you ca
 
 ### General Purpose:
 
-The "all-rounder" instances. Good for stuff like websites, apps, or development environments—basically anything that doesn’t need crazy power or storage.
-Example: Running a small to medium website or app backend.
-
 ![image](https://github.com/user-attachments/assets/a0b1bf20-521b-4b9d-a5c1-2b81fdafaf86)
+
+The "all-rounder" instances. Good for stuff like websites, apps, or development environments, basically anything that doesn’t need crazy power or storage. For example, Running a small to medium website or app backend.
 
 ### Compute Optimized:
 
