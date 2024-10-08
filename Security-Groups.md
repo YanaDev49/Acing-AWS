@@ -23,6 +23,8 @@ Security Groups  control who can and can’t come in (or out) of your virtual ma
 
 #### In summary, Security Groups are just a way to control the "traffic" in and out of your EC2 instance, making sure only the right people can access it and keeping unwanted visitors out.
 
+![image](https://github.com/user-attachments/assets/1d3efc47-0051-4b43-acd7-ca9ed3ee9b2f)
+
 ### And there you have it everyone!!
 
 ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/5c4b0d6e-e50e-4478-9606-41f95169e418)
