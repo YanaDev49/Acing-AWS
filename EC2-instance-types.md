@@ -4,9 +4,9 @@
 
 EC2 instance types are just different kinds of virtual machines (servers) you can rent from Amazon. Each type is built for a specific kind of workload. So depending on what you’re doing (like running a website, analyzing data, gaming, etc.), you pick the type that fits your needs. It’s like choosing between different types of cars—some are great for speed, some for carrying heavy stuff, and others for general use.
 
-## Here’s a breakdown of the main types:
+## Here’s a breakdown of the main types 😄
 
-![I'LlExplainEverythingToYouAhsaasChannaGIF](https://github.com/user-attachments/assets/275fb40b-73ca-4488-9c09-a2bfc6865d31)
+![Uploading LetMeExplainEmmaGIF.gif…]()
 
 ### General Purpose:
 
