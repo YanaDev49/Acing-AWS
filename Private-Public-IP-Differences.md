@@ -1,7 +1,5 @@
 # What is the difference between Private and Public IP addresses? 🤔
 
-![WhatIsTheDifferenceJamesGIF](https://github.com/user-attachments/assets/841b110a-2402-4e14-9f79-95dbea286020)
-
 ## Public IP Address 
 
 ![image](https://github.com/user-attachments/assets/cd7b923c-243b-43f3-b590-1e8af65bd29f)
