@@ -1,4 +1,4 @@
-# What is the difference between Private and Public IP address? 🤔
+# What is the difference between Private and Public IP addresses? 🤔
 
 ![WhatIsTheDifferenceJamesGIF](https://github.com/user-attachments/assets/841b110a-2402-4e14-9f79-95dbea286020)
 
